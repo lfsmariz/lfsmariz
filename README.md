@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Data Structure - content](https://github.com/mustang-roy/data-structure)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mustang-roy](https://github.com/mustang-roy)
+- 👨‍💻 All of my projects are available at [https://github.com/mustang-roy](https://github.com/lfsmariz)
 
 - 📝 I regularly write articles on [https://medium.com/@lfsmariz](https://medium.com/@lfsmariz)
 
