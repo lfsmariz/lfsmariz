@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Luiz Filipe S Mariz</h1>
 <h3 align="center">A lover of programming and challenges. A Fullstack Developer who turns dreams into code</h3>
 
-- 🔭 I’m currently working on [Smart Tracker Project](NDA - Term)
+- 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/)
 
-- 🌱 I’m currently learning **Java, Spring, Swagger**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on [AI - BotTibia](https://github.com/mustang-roy/AI-BOTTIBIA)
 
 - 🤝 I’m looking for help with [Data Structure - content](https://github.com/mustang-roy/data-structure)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mustang-roy](https://github.com/lfsmariz)
+- 👨‍💻 All of my projects are available at [https://github.com/lfsmariz](https://github.com/lfsmariz)
 
 - 📝 I regularly write articles on [https://medium.com/@lfsmariz](https://medium.com/@lfsmariz)
 
-- 💬 Ask me about **React, Flutter, Javascript, Python, Algorithm and Data Structures**
+- 💬 Ask me about **Java, Springboot, Flutter, Javascript, Python, Algorithm and Data Structures**
 
 - 📫 How to reach me **lfsmariz@gmail.com**
 
