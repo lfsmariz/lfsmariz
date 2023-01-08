@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on [AI - BotTibia](https://github.com/mustang-roy/AI-BOTTIBIA)
 
