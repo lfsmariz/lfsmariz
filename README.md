@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@lfsmariz](https://medium.com/@lfsmariz)
 
-- 💬 Ask me about **Java, Springboot, Flutter, Javascript, Python, Algorithm and Data Structures**
+- 💬 Ask me about **Golang, Java, Springboot, Flutter, Javascript, Python, Algorithm and Data Structures**
 
 - 📫 How to reach me **lfsmariz@gmail.com**
 
