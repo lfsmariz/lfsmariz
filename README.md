@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luiz Filipe S Mariz</h1>
 <h3 align="center">A lover of programming and challenges. A Fullstack Developer who turns dreams into code</h3>
 
-- 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/)
+- 🔭 I’m currently working on [Stone Co](https://www.stone.com.br/)
 
-- 🌱 I’m currently learning **Devops**
-
-- 👯 I’m looking to collaborate on [AI - BotTibia](https://github.com/mustang-roy/AI-BOTTIBIA)
-
-- 🤝 I’m looking for help with [Data Structure - content](https://github.com/mustang-roy/data-structure)
+- 🌱 I’m currently learning **Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lfsmariz](https://github.com/lfsmariz)
 
-- 📝 I regularly write articles on [https://medium.com/@lfsmariz](https://medium.com/@lfsmariz)
+- 📝 I regularly write articles on [my personal blog](https://myblog.techtatu.com/)
 
 - 💬 Ask me about **Golang, Java, Springboot, Flutter, Javascript, Python, Algorithm and Data Structures**
 
